@@ -1,0 +1,5 @@
+{
+  "name": "PulseFly Drone Detection",
+  "description": "An interactive high-fidelity prototype of the PulseFly Drone Detection App. It provides a dashboard for monitoring drone activity, a mission planner for flight paths, and a settings panel for user configuration.",
+  "requestFramePermissions": []
+}
